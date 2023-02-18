@@ -71,7 +71,7 @@
 - 🔭 I’m currently working as a web and mobile app developer.
 - 👯 I have expertise in latest Tech such as Svelte, Flutter, WebRTC, ChatGPT, OpenAI and so on, and I’m looking to collaborate a long-term client in web and mobile industries.
 # Here are my main skills:<br/>
-* web skills: React, Svelte, Vue, Node, Angular, Laravel, Express, PHP, CSS, SCSS, HTML, JQuery, Javascript, Python, Ruby, Rails, MongoDB, MySQL, PostgreSQL and etc
-* app skills: Flutter, Ionic, React-native
+* web skills: JavaScript Frameworks (Svelte, React, Angular), Python Frameworks (Django, Flask), Node.js, Laravel
+* app skills: Flutter, React-native
 * other Tech: WebRTC, openAI, ChatGPT, socket.io, websocket, SEO...
   -->
